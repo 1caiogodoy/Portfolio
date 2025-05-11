@@ -1,0 +1,23 @@
+💼 Portfólio Caio Godoy
+Bem-vindo ao meu portfólio! Aqui você encontrará projetos desenvolvidos por mim, com foco em [desenvolvimento web/backend], utilizando tecnologias como [Python, JavaScript, CSS e HTML.].
+
+🚀 Tecnologias Utilizadas
+Pytohn
+
+JavaScript
+
+CSS
+
+HTML
+
+Flask
+
+📂 Projetos Destacados
+1. Calculadora
+Uma aplicação simples de calculadora desenvolvida com [Python], implementando operações básicas.
+
+2. Calculadora IMC
+Aplicativo para cálculo do Índice de Massa Corporal (IMC), utilizando [JavaScript], com interface amigável e responsiva.
+
+3. Gerador de Senhas
+Ferramenta para geração de senhas seguras, desenvolvida com [HTML e Python], permitindo personalizar critérios como comprimento e inclusão de caracteres especiais.
