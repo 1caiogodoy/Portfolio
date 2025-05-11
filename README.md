@@ -26,7 +26,7 @@ Ferramenta para geração de senhas seguras, desenvolvida com [HTML e Python], p
 📞 Contato
 Email: caiogodoaraujo@gmail.com
 
-LinkedIn: linkedin.com/in/1caiogodoy
+LinkedIn: (https://www.linkedin.com/in/1caiogodoy/)
 
 GitHub: github.com/1caiogodoy
 
