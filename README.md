@@ -28,5 +28,4 @@ Email: caiogodoaraujo@gmail.com
 
 LinkedIn: (https://www.linkedin.com/in/1caiogodoy/)
 
-GitHub: github.com/1caiogodoy
 
