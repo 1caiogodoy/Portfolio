@@ -3,11 +3,11 @@
 Bem-vindo ao meu portfólio! Aqui você encontrará projetos desenvolvidos por mim, com foco em [desenvolvimento web], utilizando tecnologias como Python, JavaScript, HTML e CSS.
 
 🚀 Tecnologias Utilizadas
-CSS
+CSS3
 
 Python
 
-HTML
+HTML5
 
 JavaScript
 
@@ -22,3 +22,11 @@ Aplicativo para cálculo do Índice de Massa Corporal (IMC), utilizando [JavaScr
 
 3. Gerador de Senhas
 Ferramenta para geração de senhas seguras, desenvolvida com [HTML e Python], permitindo personalizar critérios como comprimento e inclusão de caracteres especiais.
+
+📞 Contato
+Email: caiogodoaraujo@gmail.com
+
+LinkedIn: linkedin.com/in/1caiogodoy
+
+GitHub: github.com/1caiogodoy
+
