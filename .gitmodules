@@ -1,0 +1,9 @@
+[submodule "calculadora"]
+	path = calculadora
+	url = https://github.com/1caiogodoy/calculadora.git
+[submodule "gerador_de_senhas1"]
+	path = gerador_de_senhas1
+	url = https://github.com/1caiogodoy/gerador_de_senhas1.git
+[submodule "calculadoraIMC"]
+	path = calculadoraIMC
+	url = https://github.com/1caiogodoy/calculadoraIMC.git
