@@ -3,6 +3,7 @@
 Bem-vindo ao meu portfólio! Aqui você encontrará projetos desenvolvidos por mim, com foco em [desenvolvimento web], utilizando tecnologias como Python, JavaScript, HTML e CSS.
 
 🚀 Tecnologias Utilizadas
+
 CSS3
 
 Python
