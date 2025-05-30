@@ -24,6 +24,9 @@ Aplicativo para cálculo do Índice de Massa Corporal (IMC), utilizando [JavaScr
 3. Gerador de Senhas
 Ferramenta para geração de senhas seguras, desenvolvida com [HTML e Python], permitindo personalizar critérios como comprimento e inclusão de caracteres especiais.
 
+4. Registro de Pacientes
+Esse programa faz o registro de pacientes e separa em grupos de riscos de acordo com a idade
+
 📞 Contato
 Email: caiogodoaraujo@gmail.com
 
