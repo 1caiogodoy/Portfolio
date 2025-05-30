@@ -7,3 +7,6 @@
 [submodule "calculadoraIMC"]
 	path = calculadoraIMC
 	url = https://github.com/1caiogodoy/calculadoraIMC.git
+[submodule "registro_de_paciente"]
+	path = registro_de_paciente
+	url = https://github.com/1caiogodoy/registro-pacientes.git
